@@ -13,10 +13,11 @@ Node JS and Express JS assignment
 ### After cloning this assignment, please follow the steps:
 - npm install
 - npm run start (execute for server run)
-- Searching URL(e.g.): http://localhost:3000/all/Bangladesh/Dhaka/2021-12-25
+- Searching URL(e.g.): http://localhost:3000/all/Bangladesh/Dhaka/2021-12-29
+- Please insert a date from the last 7 days
 
 ## Assignment Details
-### It shows the weather ingo of a particular data at different time span
+### It shows the weather info of a particular day among the last 7 days at different time span
 ##### Screenshot No.: 01
 ![1](https://user-images.githubusercontent.com/56860950/148011004-9057c1eb-e896-4e52-840c-fd222b84d920.png)
 
