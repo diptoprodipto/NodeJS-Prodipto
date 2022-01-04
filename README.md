@@ -25,7 +25,7 @@ Node JS and Express JS assignment
 ##### Screenshot No.: 02
 ![2](https://user-images.githubusercontent.com/56860950/148011072-7d131357-a19d-4431-9a62-d8f33df9330b.png)
 
-### if anyone hit the URL more than once between 1 to 10 seconds, display 403 HTTP Forbidden server responses
+### if anyone hit the URL more than once between 1 to 10 seconds, display 403 HTTP Forbidden server responses. The URL needs to be hit immediately one after another to test this feature.
 ##### Screenshot No.: 03
 ![3](https://user-images.githubusercontent.com/56860950/148011167-43b5a56d-f703-41c5-8628-770af5961909.png)
 
