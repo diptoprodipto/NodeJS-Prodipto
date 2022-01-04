@@ -29,6 +29,6 @@ Node JS and Express JS assignment
 ##### Screenshot No.: 03
 ![3](https://user-images.githubusercontent.com/56860950/148011167-43b5a56d-f703-41c5-8628-770af5961909.png)
 
-### ### if anyone hit the API with a wrong location there will be alert that shows that no data is found.
+### ### if anyone hit the API with a wrong location there will be alert that shows that no data is found. Example: http://localhost:3000/all/bangladesh/dd/2021-12-29
 ##### Screenshot No.: 03
 ![4](https://user-images.githubusercontent.com/56860950/148011285-bb406e6f-5cda-41d0-bff5-7d46cc9838d2.png)
